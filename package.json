@@ -1,6 +1,6 @@
 {
   "name": "word-lookup",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Look up dictionary words straight in the terminal",
   "main": "index.js",
   "bin": {

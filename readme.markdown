@@ -10,9 +10,9 @@ Look up dictionary words straight in the terminal.
 
 ## Installation
 
-Simply run `npm i -g word-lookup` to install define globally.
+Simply run `npm i -g word-lookup` to install globally.
 
-Once installed you can run the following commands:
+Once installed you can run the following:
 
 ```bash
 # look up word definition via dictionary
