@@ -1,0 +1,29 @@
+{
+  "name": "word-lookup",
+  "version": "1.0.0",
+  "description": "Look up dictionary words straight in the terminal",
+  "main": "index.js",
+  "bin": {
+    "define": "./index.js"
+  },
+  "type": "module",
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "node-fetch": "^3.2.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matthewhartman/word-lookup.git"
+  },
+  "keywords": [
+    "dictionary",
+    "define",
+    "words"
+  ],
+  "author": "Matthew Hartman <matthewhartmanau@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/matthewhartman/word-lookup/issues"
+  },
+  "homepage": "https://github.com/matthewhartman/word-lookup#readme"
+}
